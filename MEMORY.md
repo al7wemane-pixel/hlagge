@@ -1,0 +1,3 @@
+- [Expo StyleSheet theming pitfall](expo-stylesheet-theming.md) — StyleSheet.create runs at module init; never use imported color constants there, use literals as dark-mode fallbacks and inline C.xxx overrides for theming.
+- [Halagge barber rank badges](halagge-badge-tiers.md) — bronze/silver/gold emblem assets + tier logic is duplicated in (tabs)/index.tsx and barber.tsx; change both together.
+- [Halagge product decisions](halagge-product-decisions.md) — demo-only OTP (real send deferred), admin = separate web artifact, user-provided Google Maps key, 4 langs incl. distinct `ma`.

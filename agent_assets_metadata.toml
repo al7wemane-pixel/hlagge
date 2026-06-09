@@ -1,0 +1,50 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "9ovNgDeZSLMJLoU4ectQh"
+uri = "file://artifacts/halagge/assets/images/icon.png"
+type = "image"
+title = "halagge barber icon"
+
+[[generated]]
+id = "dztq9ovqfkGJIWoq5IrjL"
+uri = "file://artifacts/halagge/assets/images/barber.png"
+type = "image"
+title = "barber illustration"
+
+[[generated]]
+id = "GxKPwLfZzyKl1GGHpf2Ez"
+uri = "file://artifacts/halagge/assets/images/barber1.png"
+type = "image"
+title = "barber 1 portrait"
+
+[[generated]]
+id = "6XcJ4gWnZyxJh8RKVB_Sa"
+uri = "file://artifacts/halagge/assets/images/barber2.png"
+type = "image"
+title = "barber 2 portrait"
+
+[[generated]]
+id = "ZFs8ms-7DyqUtv0vMBDki"
+uri = "file://artifacts/halagge/assets/images/barber3.png"
+type = "image"
+title = "barber 3 portrait"
+
+[[generated]]
+id = "ZEeuvbbTGRat6HXxzoy4o"
+uri = "file://artifacts/halagge/assets/images/badge-bronze.png"
+type = "image"
+title = "bronze barber rank badge"
+
+[[generated]]
+id = "BNSZkNgdjM-bGRbH35mC5"
+uri = "file://artifacts/halagge/assets/images/badge-silver.png"
+type = "image"
+title = "silver barber rank badge"
+
+[[generated]]
+id = "eT9_gfPs-SeCELScC3aE5"
+uri = "file://artifacts/halagge/assets/images/badge-gold.png"
+type = "image"
+title = "gold barber rank badge"
